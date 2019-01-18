@@ -4,7 +4,7 @@ while ii < array.length
   yield(array[ii])
   ii+=1
 end
-  return array
+   array
 end
 
 # call your method here!
