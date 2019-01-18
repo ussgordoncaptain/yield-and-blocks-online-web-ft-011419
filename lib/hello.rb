@@ -8,7 +8,8 @@ if block_given?
     ii+=1
   end
     return array
-end
+else
+  puts ""
 
 # call your method here!
 
