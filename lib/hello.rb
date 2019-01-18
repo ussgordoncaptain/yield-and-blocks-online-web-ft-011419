@@ -9,4 +9,4 @@ end
 
 # call your method here!
 
-hello
+hello_t(["Tim", "Tom", "Jim"]) do |name|
